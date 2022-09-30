@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Alumni+Sans+Pinstripe&family=Josefin+Sans&family=Noto+Serif&family=Open+Sans:wght@300&display=swap');
 .heading {
-    font-size: 4vw;
+    font-size: 5vw;
 }
 
 .contacts {
@@ -10,9 +10,9 @@
     box-shadow: 0px 0px 9px 1px grey;
 }
 .info {
-    width: 40%;
+    width: 60%;
     display: inline-block;
-    margin: 3vw;
+    margin: 4vw;
     /* margin: auto; */
     text-align: center;
     background: #e0ff00;
